@@ -3,8 +3,11 @@ This is a Command Prompt addon that will allow you to easyly install plugins(exe
 
 How to use?
 
-Commands;
+First run
+cfile
+In command-prompt
 
-cfile | Loads GUI
-cfile help | Loads the Help Page
-cfile run exampleplugin.exe | Runs exampleplugin.exe , replace exampleplugin.exe with the name of your plugin
+Second
+Select your plugin
+
+Done! The plugin is now running!
